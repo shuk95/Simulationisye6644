@@ -1,6 +1,6 @@
 # ISYE 6644 — Project Topic 5: Fast-Food Restaurant Simulation
 
-**Team 5 — Nahom Sososa, Neil Shukla**
+**Team 5 — Neil Shukla**
 
 A discrete-event simulation of a fast-food restaurant built in Python with
 SimPy. Customers arrive as a Poisson process and pass through three
